@@ -4,7 +4,7 @@ public class Post {
     public String surname;
     public String phone;
     public String passport;
-    public String subscription;
+    public Boolean subscription;
     public FormDate birthday;
 
 
